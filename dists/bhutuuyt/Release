@@ -1,0 +1,26 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: bhutuuyt repository
+Suite: bhutuuyt
+Date: Sun, 06 Aug 2023 22:39:27 UTC
+MD5Sum:
+ c3cd8d74ea22a7651f34fa8329ad51e8 595 main/binary-all/Packages
+ 0c110dd0e136c6e4a651f4e1812735a1 500 main/binary-all/Packages.xz
+ 7f544bfa85dcff94f2d8ed309941ed04 148 main/Contents-all.xz
+ 7b48b719cd30203e0c682a064857deaf 198 main/Contents-all
+SHA1:
+ 0ef2071607ccf42286bb7a3c92cb9b9d1664cb37 595 main/binary-all/Packages
+ c32e8cd22dbc8b3583b12a9ec48636aed20075cb 500 main/binary-all/Packages.xz
+ 39350d56e3fa42cee4af2287666f0fd52e6b0d50 148 main/Contents-all.xz
+ e54ca842febd2aa4824d01d2dde7b0d4c14605fb 198 main/Contents-all
+SHA256:
+ da93fc90eb87107d731ad9383e00d55f3a925bad30313806db81ffef83daec1e 595 main/binary-all/Packages
+ fc1251f59e376587dedd4adec6305f5fb8ceeca34a55940b8a4a4284b33addeb 500 main/binary-all/Packages.xz
+ 895188b6926cc7dcf40bf0f3c0652089da4479d6100494056124d67109e945e5 148 main/Contents-all.xz
+ 28981ab9e6d50ed4fb8893df190d06f076941a2006d6aa4002c7399469d788ec 198 main/Contents-all
+SHA512:
+ e4f11497d4f433112255b0e2a4c7d4b309f8e6b62d4859df0e7852bcef219b26359a494faec42b3d285b3cc090242be32f8d5543045b2dd92e7080a8604dfb17 595 main/binary-all/Packages
+ 7e1debf1bde178b61f2cdbba2348a3a1e585ef3fc20bbb933b00e61af4854bce4c703d1170c44be2781907ac45fd905ae8958469bc794a16ba4f4094eb945bf3 500 main/binary-all/Packages.xz
+ 080f77b47f7bd3210822cccc6cb22a3bc49d43258c09a9b626c00d5693015eba2790e8bf78c0034f08be552fe0adc90ae3b17f8cc032faeedff4d323748893ad 148 main/Contents-all.xz
+ f5d8091106dfd4f59788666dc5245fbae481bb19e03208ca9bf20657f4bbc9dd1db9797e16803c4fdf7ac62ef6a5969297faf206bf62911985e6d040de1ce969 198 main/Contents-all

@@ -6,10 +6,10 @@ Maintainer: Suman Kumar ~BHUTUU
 Homepage: https://github.com/BHUTUU/bhutuu.repo
 Depends: python
 Description: A simple calculator for apt package demo.
-Filename: dists/bhutuuyt/main/binary-all/calculator.deb
+Filename: dists/bhutuuyt/main/binary-all/calculator.all.deb
 Size: 1532
-MD5Sum: c4a9b7253cbeacfb8d571e0f655e7fc9
-SHA1: e5a482087c4e3ffa266b5f4be00b2b055bce2ef3
-SHA256: c69cf14dc7209cd0c4c9a08e01db7890dd09c6b36b6d56fe840bf4ea30587e1a
-SHA512: ddba274619ef3f81a6764d6bb22f8d9b353cf6e73d94b2839e350cce71f5e873b6b4a84a3a0ef36ac14cb25485219061d7507ea1036760bdf132246f2ff5b78b
+MD5Sum: fb9f6878f50cd9ef9a3d55a546105d04
+SHA1: 508a9f8ba9718fe70484195b5a583207a9ae86a6
+SHA256: 9143fea959e1ed45181b8e674413807287cdb3af209e8587235db171fb780637
+SHA512: 4b21f7cca31d4046cc33f9a725f1994043dd706d9b5e797d8032245c1cc652fb579abd7c5d0a1acbe1752047fc16d1d36ad7111e08465518277f5dd2601420c5
 

@@ -1,0 +1,15 @@
+Package: calculator-bhutuu
+Architecture: x86_64
+Version: 1.0
+Installed-Size: 104
+Maintainer: Suman Kumar ~BHUTUU
+Homepage: https://github.com/BHUTUU/bhutuu.repo
+Depends: python
+Description: A simple calculator for apt package demo.
+Filename: dists/bhutuuyt/main/binary-x86_64/calculator.x86_64.deb
+Size: 1536
+MD5Sum: edafbc1618447449b0201500b60c2742
+SHA1: 7f597db49df03abe40c717489e58c91c5213dc90
+SHA256: 50ba3172f5e50de827261edfa1d838b38e9cc25167933f6b0bb12b96f1e33b6a
+SHA512: d62c962db7ba48a5a380b98699ca8d89fefa54d6bdad16ca59e33b3ac0f21f05d6707918d74f9c57cd0112298b5da47c3afbe07ae5c8686cc065f364e6598e84
+

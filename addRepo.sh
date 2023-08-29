@@ -52,7 +52,7 @@ while true; do
     break
   fi
 done
-
+validateUsr
 if [[ $installation == true ]]; then
   if [[ $uninstallation == true ]]; then
     printf "Dont use both of -i and -r argunment\n"
